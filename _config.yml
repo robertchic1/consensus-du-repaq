@@ -1,3 +1,3 @@
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
-title: "" # the name of your site, e.g. ACME Corp.
+url: "https://robertchic1.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/consensus-du-repaq" # the subpath of your site, e.g. /blog
+title: "Consensus des écoles alternatives du Québec" # the name of your site, e.g. ACME Corp.
