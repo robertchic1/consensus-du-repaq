@@ -1,6 +1,0 @@
-# To start the server with automatic reload use command :
-#   bundle exec jekyll serve --livereload
-
-url: "https://robertchic1.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/consensus-du-repaq" # the subpath of your site, e.g. /blog
-title: "Consensus des écoles alternatives du Québec" # the name of your site, e.g. ACME Corp.
